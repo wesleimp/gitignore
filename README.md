@@ -1,5 +1,7 @@
 # gitignore
 
+![ci](https://github.com/wesleimp/gitignore/workflows/ci/badge.svg)
+
 .gitignore generator for terminal
 
 ## Install
