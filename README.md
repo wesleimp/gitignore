@@ -1,6 +1,6 @@
 # gitignore
 
-Terminal .gitignore generator
+.gitignore generator for terminal
 
 ## Install
 
