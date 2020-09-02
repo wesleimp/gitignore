@@ -63,7 +63,7 @@ $ gitignore list
 **generate**
 
 ```sh
-$ gitignore generate -lang Go -lang yarn
+$ gitignore generate --lang Go --lang yarn
 ```
 
 **generate in another workspace**
