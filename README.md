@@ -6,13 +6,25 @@
 
 ## Install
 
-**Docker**
+### Pre-compiled binary
+
+**shell script**
+
+```sh
+curl -sf https://gobinaries.com/wesleimp/gitignore | sh
+```
+
+**manually**
+
+Download the pre-compiled binaries from the [releases page](https://github.com/wesleimp/gitignore/releases) and copy to the desired location
+
+### Docker
 
 ```sh
 $ docker run -it --rm wesleimp/gitignore list
 ```
 
-**Compiling from source**
+### Compiling from source
 
 Clone the repository
 
